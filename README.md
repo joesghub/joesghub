@@ -31,5 +31,5 @@
 <p align="center">
 <a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/joeslnkdin/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joseph%20White-orange?style=flat-square&logo=linkedin"></a>
-<a href="joekuralabs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jwhite@kuralabs.org-orange?style=flat-square&logo=gmail"></a>
+<a href="joekuralabs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joekuralabs@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
