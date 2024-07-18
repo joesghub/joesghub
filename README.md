@@ -4,10 +4,13 @@
 
 🤔 What do you like to do
 - Learn, Cook
+
 🎓 What's your educational background
 - Technology, Finance, Arts
+
 💼 What are you planning on doing for work
 - Technology Product Ooperations
+
 🌱 Currently working on
 
 <h3> 🛠  Tech Stack</h3>
