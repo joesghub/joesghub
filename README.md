@@ -1,16 +1,35 @@
-## Hi there 👋
+<h2> Hey there! I'm Joe.</h2>
 
-<!--
-**joesghub/joesghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻  About Me </h3>
 
-Here are some ideas to get you started:
+🤔 What do you like to do
+- Learn, Cook
+🎓 What's your educational background
+- Technology, Finance, Arts
+💼 What are you planning on doing for work
+- Technology Product Ooperations
+🌱 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠  Tech Stack</h3>
+
+💻
+
+🌐
+
+🛢
+
+⚙️
+
+🔧
+
+🖥
+
+<br/>
+
+<h3> 🤝🏻  Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/joeslnkdin/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joseph%20White-orange?style=flat-square&logo=linkedin"></a>
+<a href="joekuralabs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jwhite@kuralabs.org-orange?style=flat-square&logo=gmail"></a>
+</p>
