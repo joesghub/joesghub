@@ -9,23 +9,31 @@
 - Technology, Finance, Arts
 
 💼 What are you planning on doing for work
-- Technology Product Ooperations
+- DevOps Engineeer
 
 🌱 Currently working on
+- Learing JavaScript 
 
 <h3> 🛠  Tech Stack</h3>
 
-💻
+💻 Languages:
+Python · JavaScript (ES6) · Bash · HTML · CSS
 
-🌐
+🌐 Frontend / Web:
+React · ServiceNow Platform (UI Policies, Client Scripts) · TailwindCSS
 
-🛢
+🛢 Databases:
+PostgreSQL · SQLite (for dev/test)
 
-⚙️
+⚙️ Backend / Frameworks:
+Django · Node.js · Express (light familiarity)
 
-🔧
+🔧 DevOps / Tooling:
+Jenkins · GitHub Actions · Terraform · Docker · Prometheus · CI/CD Pipelines
 
-🖥
+🖥 Infrastructure / Platforms:
+AWS (EC2, S3, IAM basics) · Linux · Cloudflare (concepts like server failover)
+
 
 <br/>
 
